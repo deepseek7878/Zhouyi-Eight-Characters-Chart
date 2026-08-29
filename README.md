@@ -1,6 +1,6 @@
-# Bazi Calculator | 八字排盘 | 八字排盤工具|周易排盘|四柱八字源码|周易源码|紫微斗数源码|七政四余源码
-# Bazi Calculator
+# Bazi Calculator | 周易八字排盘 | 八字排盤工具
 
+[English](README.en.md) | [繁體中文](README.zh-TW.md) | [GitHub Pages](https://deepseek7878.github.io/bazi-calculator/)
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/bazi-calculator?style=for-the-badge)](https://github.com/deepseek7878/bazi-calculator)
 [![GitHub forks](https://img.shields.io/github/forks/deepseek7878/bazi-calculator?style=for-the-badge)](https://github.com/deepseek7878/bazi-calculator)
 [![GitHub issues](https://img.shields.io/github/issues/deepseek7878/bazi-calculator?style=for-the-badge)](https://github.com/deepseek7878/bazi-calculator/issues)
@@ -10,14 +10,10 @@
 **Bazi (Eight Characters) calculator / 八字排盘工具 / 八字排盤工具/ 四柱八字源码/周易源码**  
 Input birth year, month, day, hour → Generate Bazi chart, four pillars, heavenly stems & earthly branches, luck pillars / 输入出生年月日时 → 生成八字排盘、四柱、天干地支、大运 / 輸入出生年月日時 → 產生八字排盤、四柱、天干地支、大運.
 
-
-## 💰 联系我获取完整源码
+## 💰 联系我
 📱 Telegram：@fox_lovemyself
 
 📧 Email：lihongbo9414@gmail.com
-
-👉 联系我获取演示视频 + 详细报价
-
 
 ## 🚀 Quick Demo / 快速演示 / 快速示範
 
@@ -29,8 +25,6 @@ Birth: 1990-05-15 14:00
 四柱: 年柱庚午 月柱辛巳 日柱壬辰 时柱丁未
 大运: 壬午 癸未 甲申 乙酉...
 纳音: 路旁土 白蜡金 长流水 天河水
-
-
 
 ![八字排盘工具截图](docs/assets/Screenshots/baizhipaipan.png)
 
@@ -185,9 +179,10 @@ npm start
 4. Push to branch (`git push origin feature/AmazingFeature`) / 推送
 5. Open Pull Request / 发起PR / 發起PR
 
-## 📄 License / 许可证 / 授權
 
-This project is MIT licensed / 本项目采用 MIT 许可证 / 本專案採用 MIT 授權
+## License / 许可证 / 授權
+
+This project is MIT licensed / 本项目采用 MIT 许可证 / 本專案採用 MIT 授權。
 
 
 MIT License
