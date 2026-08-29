@@ -67,29 +67,37 @@ tests/                 # Automated tests and chart validation cases
 - Can be extended into APIs, dashboards, mini programs and mobile clients
 - Encourages verifiable chart-calculation logic before generating AI explanations
 
-## GitHub Pages
+## 💰 联系我
+📱 Telegram：@fox_lovemyself
 
-After uploading the `docs/` folder, enable GitHub Pages:
+📧 Email：lihongbo9414@gmail.com
 
-```text
-Settings → Pages → Deploy from a branch
-Branch: main
-Folder: /docs
-Save
-```
+## 🚀 Quick Demo / 快速演示 / 快速示範
 
-Site URL:
+**Input / 输入 / 輸入:**
+Birth: 1990-05-15 14:00
 
-```text
-https://deepseek7878.github.io/bazi-calculator/
-```
+**Output / 输出 / 輸出:**
+八字: 庚午 辛巳 壬辰 丁未
+四柱: 年柱庚午 月柱辛巳 日柱壬辰 时柱丁未
+大运: 壬午 癸未 甲申 乙酉...
+纳音: 路旁土 白蜡金 长流水 天河水
 
-Sitemap:
+![八字排盘工具截图](docs/assets/Screenshots/baizhipaipan.png)
 
-```text
-https://deepseek7878.github.io/bazi-calculator/sitemap.xml
-```
+![八字排盘工具截图](docs/assets/Screenshots/daliuren.png)
 
+![微信图片 20260207202257](docs/assets/Screenshots/liunian.png)
+
+![微信图片 20260207202257](docs/assets/Screenshots/paipan.png)
+
+![屏幕截图 2025-04-18 194842](docs/assets/Screenshots/qizheng2.png)
+
+![屏幕截图 2025-04-18 194842](docs/assets/Screenshots/qizhengsiyu.png)
+
+![屏幕截图 2025-03-15 113242](docs/assets/Screenshots/wujibazi.png)
+
+![屏幕截图 2025-03-15 113242](docs/assets/Screenshots/wuxing.png)
 ## Responsible Use
 
 This repository is intended for software development, cultural research and entertainment-oriented applications. Public-facing products should clearly state that generated results are for reference only.
