@@ -1,6 +1,10 @@
 # Bazi Calculator | 周易八字排盘 | 八字排盤工具
 
 [English](README.en.md) | [繁體中文](README.zh-TW.md) | [GitHub Pages](https://deepseek7878.github.io/bazi-calculator/)
+
+
+
+
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/bazi-calculator?style=for-the-badge)](https://github.com/deepseek7878/bazi-calculator)
 [![GitHub forks](https://img.shields.io/github/forks/deepseek7878/bazi-calculator?style=for-the-badge)](https://github.com/deepseek7878/bazi-calculator)
 [![GitHub issues](https://img.shields.io/github/issues/deepseek7878/bazi-calculator?style=for-the-badge)](https://github.com/deepseek7878/bazi-calculator/issues)
