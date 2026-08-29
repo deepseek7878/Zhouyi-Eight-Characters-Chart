@@ -30,15 +30,6 @@ Birth: 1990-05-15 14:00
 大运: 壬午 癸未 甲申 乙酉...
 纳音: 路旁土 白蜡金 长流水 天河水
 
-<img width="2471" height="1285" alt="99834E8AD3A42D74CA6F0CEE88D7A5F5" src="https://github.com/user-attachments/assets/04992cf4-414b-4445-9f45-7dff8fcb6430" />
-<img width="1247" height="668" alt="微信图片_20260207202257" src="https://github.com/user-attachments/assets/e3bc4f1a-d358-4fb8-9732-3c7ff75cd392" />
-<img width="2539" height="1369" alt="屏幕截图 2025-04-18 194842" src="https://github.com/user-attachments/assets/34701875-f0aa-45ec-8c74-b2e977a2e306" />
-<img width="2471" height="1285" alt="屏幕截图 2025-03-15 113242" src="https://github.com/user-attachments/assets/a263988b-32b5-4a20-aa7f-5a1bc04943c5" />
-<img width="2446" height="1292" alt="屏幕截图 2024-10-29 115251" src="https://github.com/user-attachments/assets/aa380d7f-cdc5-4aea-a906-f52332b12c5c" />
-<img width="2427" height="1398" alt="屏幕截图 2024-10-29 114655" src="https://github.com/user-attachments/assets/cae9911c-d400-44b4-b13c-35f6c206d993" />
-<img width="2540" height="1381" alt="屏幕截图 2024-10-29 114423" src="https://github.com/user-attachments/assets/1a129789-86f0-4ca6-bf15-babc927c5ce9" />
-////////////////////////////////
-
 
 
 ![八字排盘工具截图](docs/assets/Screenshots/baizhipaipan.png)
