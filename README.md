@@ -37,13 +37,25 @@ Birth: 1990-05-15 14:00
 <img width="2446" height="1292" alt="屏幕截图 2024-10-29 115251" src="https://github.com/user-attachments/assets/aa380d7f-cdc5-4aea-a906-f52332b12c5c" />
 <img width="2427" height="1398" alt="屏幕截图 2024-10-29 114655" src="https://github.com/user-attachments/assets/cae9911c-d400-44b4-b13c-35f6c206d993" />
 <img width="2540" height="1381" alt="屏幕截图 2024-10-29 114423" src="https://github.com/user-attachments/assets/1a129789-86f0-4ca6-bf15-babc927c5ce9" />
+////////////////////////////////
 
 
-![屏幕截图 2025-04-18 194842](docs/assets/Screenshots/001.png)
-![屏幕截图 2025-04-18 194842](docs/assets/Screenshots/002.png)
-![屏幕截图 2025-04-18 194842](docs/assets/Screenshots/003.png)
-![屏幕截图 2025-04-18 194842](docs/assets/Screenshots/004.png)
-![屏幕截图 2025-04-18 194842](docs/assets/Screenshots/005.png)
+
+![八字排盘工具截图](docs/assets/Screenshots/baizhipaipan.png)
+
+![八字排盘工具截图](docs/assets/Screenshots/daliuren.png)
+
+![微信图片 20260207202257](docs/assets/Screenshots/liunian.png)
+
+![微信图片 20260207202257](docs/assets/Screenshots/paipan.png)
+
+![屏幕截图 2025-04-18 194842](docs/assets/Screenshots/qizheng2.png)
+
+![屏幕截图 2025-04-18 194842](docs/assets/Screenshots/qizhengsiyu.png)
+
+![屏幕截图 2025-03-15 113242](docs/assets/Screenshots/wujibazi.png)
+
+![屏幕截图 2025-03-15 113242](docs/assets/Screenshots/wuxing.png)
 ## 📦 Quick Start / 快速开始 / 快速開始
 
 ```bash
