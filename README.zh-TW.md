@@ -67,28 +67,38 @@ tests/                 # 自动化测试和排盘验证用例
 - 支持中英文 SEO 页面，方便 Google、Bing、GitHub 搜索收录
 - 可扩展为 API 服务、管理後台和多端客户端
 
-## GitHub Pages
 
-上傳 `docs/` 后，可以在 GitHub 仓库中启用 Pages：
+## 💰 联系我
+📱 Telegram：@fox_lovemyself
 
-```text
-Settings → Pages → Deploy from a branch
-Branch: main
-Folder: /docs
-Save
-```
+📧 Email：lihongbo9414@gmail.com
 
-發布后访问：
+## 🚀 Quick Demo / 快速演示 / 快速示範
 
-```text
-https://deepseek7878.github.io/bazi-calculator/
-```
+**Input / 输入 / 輸入:**
+Birth: 1990-05-15 14:00
 
-Sitemap 位址：
+**Output / 输出 / 輸出:**
+八字: 庚午 辛巳 壬辰 丁未
+四柱: 年柱庚午 月柱辛巳 日柱壬辰 时柱丁未
+大运: 壬午 癸未 甲申 乙酉...
+纳音: 路旁土 白蜡金 长流水 天河水
 
-```text
-https://deepseek7878.github.io/bazi-calculator/sitemap.xml
-```
+![八字排盘工具截图](docs/assets/Screenshots/baizhipaipan.png)
+
+![八字排盘工具截图](docs/assets/Screenshots/daliuren.png)
+
+![微信图片 20260207202257](docs/assets/Screenshots/liunian.png)
+
+![微信图片 20260207202257](docs/assets/Screenshots/paipan.png)
+
+![屏幕截图 2025-04-18 194842](docs/assets/Screenshots/qizheng2.png)
+
+![屏幕截图 2025-04-18 194842](docs/assets/Screenshots/qizhengsiyu.png)
+
+![屏幕截图 2025-03-15 113242](docs/assets/Screenshots/wujibazi.png)
+
+![屏幕截图 2025-03-15 113242](docs/assets/Screenshots/wuxing.png)
 
 ## Responsible Use / 使用說明
 
